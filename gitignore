@@ -2,9 +2,11 @@
 .DS_Store
 .idea/
 dist
-Data
+data
+output
 Output
 bcg.egg-info
 build
 __pycache__/
 playground.py
+src/__pycache__/

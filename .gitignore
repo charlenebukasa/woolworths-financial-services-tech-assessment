@@ -1,0 +1,22 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+
+# Spark outputs
+Output/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+# Data zip remnants
+__MACOSX/
+
+# IDE
+.vscode/
+.idea/
